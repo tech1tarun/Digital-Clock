@@ -37,7 +37,7 @@ Digital-Clock/
 
 - Clone this repository
 
-- git clone https://github.com/your-username/digital-clock.git
+- git clone https://github.com/tech1tarun/Digital-Clock.git
 
 - Navigate to the project folder
 
