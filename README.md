@@ -21,9 +21,7 @@ CSS3 – Styling and responsiveness
 
 JavaScript (ES6) – Logic to update time dynamically
 
-📸 Demo Screenshot
-
-(Add your screenshot here)
+## 📸 Demo Screenshot
 
 ![Digital Clock Screenshot](./clock.png)
 
